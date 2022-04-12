@@ -7,18 +7,25 @@ p{
     font-size: xx-large;
 }
 .i-ma{
-    padding: 16px 10px;
-
+    position:fixed;
+    top:0%;
+    width: 100%;
+    margin:;
+    
 }
+
 #mma{
+    /* 
+    background-image: url("r.jpg");  */
     width: 200px;
     height: 100px;
-    background-image: url("r.jpg");
+    text-align: center;
+    background-image:url("imgas/r.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 #nn{
     position: relative;
     right:40vh
-}
-.plain{
-    z-index: 70;
 }
