@@ -1,0 +1,23 @@
+#number{
+    text-align:right;
+text-shadow: 2px 2px red;
+font-style: italic;
+}
+a{
+    text-decoration: none;
+}
+ .ss{
+    font-size: 30px;
+}
+.sss{
+    font-size: 2vw
+}
+.cla{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position:absolute;
+    right: 300px;
+
+
+}
